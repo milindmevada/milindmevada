@@ -7,9 +7,9 @@ I love writing blogs and sharing knowledge.
 
 ### Find out my top Open source contributions
 - [Medium](https://medium.com/@milindmevada) & [dev.to](https://dev.to/milindmevada)
-- (Flutter Starter Scaffold)[https://github.com/solutelabs/flutter_scaffold_project]
-- (Horizontal Calendar Component)[https://pub.dev/packages/horizontal_calendar_widget]
-- (Pin Code field component (Small feature contribution))[https://github.com/adar2378/pin_code_fields/pull/47]
+- [Flutter Starter Scaffold](https://github.com/solutelabs/flutter_scaffold_project)
+- [Horizontal Calendar Component](https://pub.dev/packages/horizontal_calendar_widget)
+- [Pin Code field component (Small feature contribution)](https://github.com/adar2378/pin_code_fields/pull/47)
 
 
 ### More about me
